@@ -14,7 +14,7 @@
     "heroku-postbuild": "cd client && npm install && npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nguyen Anh Thu Mai",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
